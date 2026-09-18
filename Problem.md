@@ -3,7 +3,7 @@
 ## Problem 1: Display student information using different data types
 ```text
 START
-    DECLARE string student_name = "Your Name"
+    DECLARE string student_name = "Your Name" 
     DECLARE integer roll_number = 12345
     DECLARE character section = 'A'
     DECLARE float gpa = 3.75
