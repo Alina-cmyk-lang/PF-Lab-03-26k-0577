@@ -1,4 +1,4 @@
-# Lab 03 - C Programming Language Basics
+# Lab 03 - C Programming Language Basics 
 
 ## 1. Data Types
 The table below highlights the standard fundamental data types used in C programming along with their typical structural usage descriptions:
